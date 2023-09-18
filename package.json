@@ -1,0 +1,21 @@
+{
+  "name": "contactbook-backend2",
+  "version": "1.0.0",
+  "main": "server.js",
+  "script": {
+    "start": "nodemon server.js"
+  },
+  "author": "Dang Thanh Liem",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": ""
+}
